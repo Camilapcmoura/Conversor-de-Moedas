@@ -32,7 +32,7 @@ label {
     
 }
 
-select,input {
+select {
 
     background: #FFFFFF;
     border: 1px solid #BBBBBB;
@@ -48,6 +48,23 @@ select,input {
     cursor: pointer;
 
 }
+
+input[type='number'] {
+    background: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    border-radius: 4px;
+    height: 48px;
+    width: 94%;
+    margin-bottom: 24px;
+    appearance: none;
+    padding-left: 18px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #555555;
+    cursor: pointer;
+
+}
+
 
 button {
     background-color: #daa520;
