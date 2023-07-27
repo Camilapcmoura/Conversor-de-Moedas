@@ -66,7 +66,7 @@ function changeCurrency(){
 
     if(currencySelect.value == "libra"){
         currencyName.innerHTML = "Libra"
-        currencyImg.src = "./assets/libra.png"
+        currencyImg.src = "./assets/libra 1.png"
     }
 
     if(currencySelect.value == "bitcoin"){
